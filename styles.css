@@ -1,0 +1,45 @@
+body {
+    background-image: url("images/blue_pattern.png");
+    margin: 0;
+}
+h1 {
+    font-size: 7rem;
+    /* font-style: oblique; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.brand-title {
+    background-color: #E8F9FD;
+    width: 30%;
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.brand-title:hover {
+    background-color: #7FB5FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-description {
+    font-size: 3rem;
+    color: aliceblue;
+    line-height: 2;
+    background-color: #112B3C;
+}
+.main-content {
+    text-align: center;
+}
+
+.footer {
+    background-color: #22577E;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+    margin-top: 120px;
+}
+
+.footer-content {
+    margin-bottom: 0;
+}
